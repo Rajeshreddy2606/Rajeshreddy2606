@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Rajeshreddy2606
 - 👀 I’m interested in everything exciting 🤭
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on my new startup idea.
 - 📫 How to reach me : mailto :: junnuthularr@gmail.com// message on whatsApp to +918179469269.
  Happy coding 😏
 <!---
